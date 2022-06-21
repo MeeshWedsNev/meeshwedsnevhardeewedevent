@@ -1,0 +1,11 @@
+@media(max-width: 767px){
+	.header .logo{ 
+	padding: 8px 15px; }
+
+
+	.header .nav{
+		flex: 0 0 100%;
+		max-width: 100%;
+		background-color: #ffffff;
+	}
+}
